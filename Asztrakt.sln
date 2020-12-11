@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asztrakt", "Asztrakt\Asztrakt.csproj", "{F68F3E44-29E9-4367-8375-C9246A7650FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68F3E44-29E9-4367-8375-C9246A7650FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68F3E44-29E9-4367-8375-C9246A7650FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68F3E44-29E9-4367-8375-C9246A7650FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68F3E44-29E9-4367-8375-C9246A7650FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC92297F-5266-4E8D-B9EB-9EC92A04B38F}
+	EndGlobalSection
+EndGlobal
