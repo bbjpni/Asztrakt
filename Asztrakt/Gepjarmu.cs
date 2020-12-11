@@ -6,6 +6,7 @@ namespace Asztrakt
 {
     abstract class  Gepjarmu
     {
+        //BENZIN V. DIZEL
         protected bool uzemanyag;
         protected int kerekekSzama;
         protected string rendszam;
